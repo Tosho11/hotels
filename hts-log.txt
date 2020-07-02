@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Jul 2020 00:12:42 at https://preview.locotheme.com/grandium-html/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.locotheme.com/grandium-html/ -O1 "C:\My Web Sites\AAA" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:13:22	Warning: 	File not parsed, looks like binary: https://preview.locotheme.com/grandium-html/assets/fonts/glyphicons-halflings-regular.woff2
+00:13:23	Warning: 	File not parsed, looks like binary: https://preview.locotheme.com/grandium-html/assets/fonts/fontawesome-webfont.woff2?v=4.5.0
+00:13:23	Error: 	"Not Found" (404) at link https://preview.locotheme.com/grandium-html/assets/css/owl.video.play.png (from https://preview.locotheme.com/grandium-html/assets/css/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 seconds : 96 links scanned, 94 files written (8701862 bytes overall) [7977960 bytes received at 194584 bytes/sec], 962578 bytes transferred using HTTP compression in 34 files, ratio 21%, 13.7 requests per connection
+(1 errors, 2 warnings, 0 messages)
